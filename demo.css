@@ -2,6 +2,15 @@
     margin:0;
     padding:0;
 }
+
+h2{
+    position: relative;
+    left: 50%;
+    top:30px;
+    font-weight: bold;
+    transform: translate(-5%,-50%);
+    color:#424242;
+}
 .wrapper{
     position: relative;
     transform-style: preserve-3d;
